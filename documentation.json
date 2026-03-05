@@ -181,9 +181,26 @@
             "tab": "What's new",
             "pages": [],
             "public": true
+          },
+          {
+            "tab": "Τεχνικό",
+            "pages": [
+              {
+                "title": "Test",
+                "path": "test"
+              }
+            ],
+            "public": false
           }
-        ]
+        ],
+        "public": true
       }
     ]
+  },
+  "seo": {
+    "robots:index": false,
+    "robots:follow": false,
+    "sitemap:enabled": false,
+    "llms-txt:enabled": false
   }
 }
