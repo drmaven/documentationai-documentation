@@ -169,8 +169,8 @@
                 "group": "Ξεκινώντας",
                 "pages": [
                   {
-                    "title": "Τι είναι το Dr Logbook",
-                    "path": "dr-logbook"
+                    "title": "Dr Logbook/user Guide/get Started/Getting Started",
+                    "path": "dr-logbook/user-guide/get-started/Getting Started"
                   }
                 ]
               }
